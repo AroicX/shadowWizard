@@ -1,0 +1,22 @@
+{
+  "name": "shadowWizardy",
+  "version": "1.0.0",
+  "description": "Get perfect shadow every time for non-designer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AroicX/shadowWizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "ArociX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AroicX/shadowWizard/issues"
+  },
+  "homepage": "https://github.com/AroicX/shadowWizard#readme"
+}
